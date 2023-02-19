@@ -27,6 +27,24 @@ This Hand-Tracking mouse is an application that allows users to use mouse comman
 
 ![open](https://user-images.githubusercontent.com/111226890/219936148-750a0aff-9482-4ae1-bd04-b869f2f09e27.png)
 
+## Mediapipe 0.9.1.0
+
+![media](https://user-images.githubusercontent.com/111226890/219936414-4e65ba78-1247-444e-8236-723d2b4516a5.png)
+
+## Autopy 4.0
+
+![auto py](https://user-images.githubusercontent.com/111226890/219936438-c50a3008-66fd-4b43-9f2e-9b5073bbef5b.jpeg)
+
+# Problems Faced During Implementation
+
+* This application can run only on Python version 3.8.0
+
+* Install rust compiler befor installing Autopy
+
+* Have a good camera quality and lighting
+
+
+# Project Screenshots/ Photos
 ![Screenshot (141)](https://user-images.githubusercontent.com/111226890/219935450-1c8c0343-031f-44ee-9f0c-f15da6005625.png)
 
 ![Screenshot (142)](https://user-images.githubusercontent.com/111226890/219935465-2876fea6-13e7-4eec-ab63-8941e2d07a1f.png)
@@ -38,3 +56,8 @@ This Hand-Tracking mouse is an application that allows users to use mouse comman
 ![Screenshot (145)](https://user-images.githubusercontent.com/111226890/219935487-9cd238e5-c7b8-4130-b2b6-b27a8bfe25e0.png)
 
 ![Screenshot (146)](https://user-images.githubusercontent.com/111226890/219935489-59a22d0f-3f41-458a-a016-f9d57c732449.png)
+
+
+# Youtube Link (Demo)
+
+
