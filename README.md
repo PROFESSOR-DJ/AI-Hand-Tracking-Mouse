@@ -7,23 +7,23 @@ This Hand-Tracking mouse is an application that allows users to use mouse comman
 
 # Problem it solves and Inspiration behind it
 
-This project enables users to reduce the usage of physical wired mouse or wireless mouse which require a surface to keep on it and work
+* This project enables users to reduce the usage of physical wired mouse or wireless mouse which require a surface to keep on it and work
 
-This also resolved the use of mouse in meetings and confrences where we need to move from one place to another to access mouse control
+* This also resolved the use of mouse in meetings and confrences where we need to move from one place to another to access mouse control
 
-This can also be developed in such a way where physically challenged people can also get accessed to computer by gestures
+* This can also be developed in such a way where physically challenged people can also get accessed to computer by gestures
 
 # Technologies Used in developing this project
 
-## Python
+## Python 3.8.0
 
 ![python](https://user-images.githubusercontent.com/111226890/219936143-d9c039c3-d70d-40ab-b4b6-464ceefbd396.jpeg)
 
-## Visual Studio Code
+## Visual Studio Code 1.75.1
 
 ![Visual](https://user-images.githubusercontent.com/111226890/219936156-a5e6ad70-2680-48ab-822c-044e27b07e03.png)
 
-## OpenCV
+## OpenCV 4.2
 
 ![open](https://user-images.githubusercontent.com/111226890/219936148-750a0aff-9482-4ae1-bd04-b869f2f09e27.png)
 
