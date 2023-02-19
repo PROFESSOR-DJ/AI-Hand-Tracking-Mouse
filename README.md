@@ -2,5 +2,6 @@
 
 
 # Abstract
-![image:1](https://discord.com/channels/978253269887508531/1021138393264050247/1076768054874222623.jpg)
+
+![Screenshot (141)](https://user-images.githubusercontent.com/111226890/219935450-1c8c0343-031f-44ee-9f0c-f15da6005625.png)
 
