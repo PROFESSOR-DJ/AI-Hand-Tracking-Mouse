@@ -47,8 +47,6 @@ This Hand-Tracking mouse is an application that allows users to use mouse comman
 # Project Screenshots/ Photos
 ![Screenshot (141)](https://user-images.githubusercontent.com/111226890/219935450-1c8c0343-031f-44ee-9f0c-f15da6005625.png)
 
-![Screenshot (142)](https://user-images.githubusercontent.com/111226890/219935465-2876fea6-13e7-4eec-ab63-8941e2d07a1f.png)
-
 ![Screenshot (143)](https://user-images.githubusercontent.com/111226890/219935483-cde219fd-fb4b-4794-b96b-a1a24f7fc3b3.png)
 
 ![Screenshot (144)](https://user-images.githubusercontent.com/111226890/219935484-ed1f02ec-bac5-474e-9ced-d01d9f2f9151.png)
